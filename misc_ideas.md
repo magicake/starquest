@@ -1,0 +1,10 @@
+- undertale/zelda/earthbound-like :alien:
+- different levels :pizza:
+- cool back story :sunglasses:
+- Rusty should be included somehow (easter eggs):egg:
+- nice art :poodle:
+- form of payment :dollar:
+- can acquire teammates like in earthbound :cat:  
+- platformer :poop:
+- one main enemy :smiley:
+- special power-ups:octocat:
